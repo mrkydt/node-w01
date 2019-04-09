@@ -1,7 +1,17 @@
+
+
+# Install nvm
+Macos/Linux: https://github.com/creationix/nvm/blob/master/README.md
+
+Windows: https://github.com/coreybutler/nvm-windows
+
 # Install Node
 1. Download
 https://nodejs.org/en/download/
-2. Install
+2. nvm command
+```
+nvm install [node version]
+```
 3. Check
 ```
 node -v
@@ -74,6 +84,10 @@ npm config set [config key] [value]
 ```
 3. Change config by .npmrc (recommend)
 https://docs.npmjs.com/files/npmrc
+.npmrc
+```
+registry=https://def.xyz
+```
 
 ## yarn config
 1. List all config
@@ -86,3 +100,7 @@ yarn config set [key] [value]
 ```
 3. yarn config by .yarnrc
 https://yarnpkg.com/lang/en/docs/yarnrc/
+.yarnrc
+```
+registry "https://abc.xyz"
+```
