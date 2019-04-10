@@ -1,14 +1,15 @@
 # Contents
 - [Install nvm](#)
-- [Install visual studio code](#)
 - [Init a ndode application](#)
 - [npm & yarn]()
 - [npm & yarn config]()
+- [Install visual studio code](#)
 
 # Install nvm
 Macos/Linux: https://github.com/creationix/nvm/blob/master/README.md
 
 Windows: https://github.com/coreybutler/nvm-windows
+Download: https://github.com/coreybutler/nvm-windows/releases
 
 # Install Node
 1. Download
@@ -36,9 +37,6 @@ npm i -g yarn
 ```
 yarn -v
 ```
-# Install Visual studio code
-1. Download & install
-https://code.visualstudio.com/
 2. run
 # npm config
 ```
@@ -109,3 +107,6 @@ https://yarnpkg.com/lang/en/docs/yarnrc/
 ```
 registry "https://abc.xyz"
 ```
+# Install Visual studio code
+1. Download & install
+https://code.visualstudio.com/
