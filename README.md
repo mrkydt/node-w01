@@ -9,7 +9,6 @@
 Macos/Linux: https://github.com/creationix/nvm/blob/master/README.md
 
 Windows: https://github.com/coreybutler/nvm-windows
-
 Download: https://github.com/coreybutler/nvm-windows/releases
 
 # Install Node
