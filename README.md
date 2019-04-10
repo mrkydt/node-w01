@@ -1,5 +1,6 @@
 # Contents
 - [Install nvm](#)
+- [Install node](#)
 - [Init a ndode application](#)
 - [npm & yarn]()
 - [npm & yarn config]()
