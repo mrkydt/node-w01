@@ -5,6 +5,7 @@
 - [npm & yarn]()
 - [npm & yarn config]()
 - [Install visual studio code](#)
+- [.gitignore for node js](#)
 
 # Install nvm
 Macos/Linux: https://github.com/creationix/nvm/blob/master/README.md
@@ -127,3 +128,5 @@ registry "https://abc.xyz"
 # Install Visual studio code
 1. Download & install
 https://code.visualstudio.com/
+# .gitignore
+https://github.com/github/gitignore/blob/master/Node.gitignore
