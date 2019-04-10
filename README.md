@@ -52,13 +52,21 @@ yarn config list
 ```
 npm init
 ```
-2. Install module
+2. Install a module
 ```
-npm install [package name]
+npm install [module_name]
 ```
 ex: 
 ```
 npm install is-number-prime
+```
+3. Uninstall a module
+```
+npm uninstall [module_name]
+```
+ex:
+```
+npm uninstall is-number-prime
 ```
 
 ## yarn
@@ -66,13 +74,21 @@ npm install is-number-prime
 ```
 yarn init
 ```
-2. Install module
+2. Install a module
 ```
 yarn add [package name]
 ```
 ex:
 ```
 yarn add axios
+```
+3. Remove a module
+```
+yarn remove [module_name]
+```
+ex:
+```
+yarn remove axios
 ```
 
 # npm & yarn config
